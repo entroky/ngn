@@ -6,9 +6,9 @@ We have a mimimum-collection policy. Aside from essential data required to keep 
 
 For all data you contribute (for example code, content, repositories, account details and settings), you have full responsibility and control to add, modify, create this data. If some datum cannot be modified by users, this is considered a technical bug that needs urgent fixing. Please report all issues to the Codeberg.org Community Issue Tracker.
 
-### Backups
+### Backup files
 
-After you deleted your data in your account, backup files can remain to exist for up to 30 days according to GDPR guidelines.
+After you deleted your data in your account, rotating off-line backup files can continue to exist for up to 30 days according to GDPR guidelines.
 
 ### IP logging
 
