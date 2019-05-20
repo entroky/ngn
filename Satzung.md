@@ -33,10 +33,10 @@ Zweck und Aufgabe des Codeberg e.V. ist deshalb der Aufbau und Betrieb einer fr
 
 (4) Dem Zweck des Vereins sollen namentlich dienen:
 
- - der Betrieb und die finanzielle Förderung des Betriebs von Internetsystemen zur Erstellung, Sammlung bzw. Verbreitung Freier Software (Open Source) und Freier Inhalte.
+ - der Betrieb von Internetsystemen zur Erstellung, Sammlung bzw. Verbreitung Freier Software (Open Source) und Freier Inhalte.
  - die Verbreitung und die Förderung der Verbreitung Freier Software und Freier Inhalte auf anderen Wegen, zum Beispiel in digitaler oder gedruckter Form.
  - die Beschaffung, Bereitstellung und Verbreitung von Informationen sowie die Öffentlichkeitsarbeit zum Thema Freie Software und Freie Inhalte.
- - die Klärung wissenschaftlicher, sozialer, kultureller und rechtlicher Fragen im Zusammenhang mit Freier Software, Freien Inhalten, Repository und Version Control Systemen und Wikis zum Beispiel durch Gutachten, Studien und Vergabe von Stipendien.
+ - die Klärung wissenschaftlicher, sozialer, kultureller und rechtlicher Fragen im Zusammenhang mit Freier Software, Freien Inhalten, Repository und Version Control Systemen und Wikis. Beispiele sind Gutachten, Studien und Aufträge zu Erforschung und Entwicklung von für den Betrieb der Plattform wesentlicher Systeme, und die Vergabe von Stipendien für Arbeiten in diesen Bereichen. Diese müssen den Zielen und Zwecken des Codeberg e.V. unmittelbar dienen, Ergebnisse müssen zeitnah veröffentlicht und der Allgemeinheit zugänglich gemacht werden. Weiterhin müssen Aufträge und Stipendien, und deren Vergaberichtlinien öffentlich ausgeschrieben sein.
 
 (5) Der Verein kann Mittel, sofern sie ausschließlich für oben genannte Zwecke verwendet werden, auch für andere steuerbegünstigte Körperschaften bzw. Körperschaften des Öffentlichen Rechts beschaffen und an sie weiterleiten sowie sich an steuerbegünstigten Körperschaften beteiligen oder deren Mitglied werden.
 
