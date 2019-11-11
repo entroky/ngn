@@ -12,7 +12,7 @@ After you deleted your data in your account, rotating off-line backup files can 
 
 ### IP logging
 
-Server log files can contain client IP addresses and user agent strings from connecting computers. These log files are rotated by logrotate and destroyed automatically within at most seven days. 
+Server log files can contain client IP addresses and user agent strings from connecting computers. These log files are destroyed automatically within at most seven days. 
 
 ### Codeberg e.V. membership data
 
