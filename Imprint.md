@@ -17,11 +17,19 @@ Geschäftsführender Vorstand: Holger Waechtler
 Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 ```
 
+## SEPA IBAN for donations
+
+```text
+IBAN DE90 8306 5408 0004 1042 42
+BIC  GENODEF1SLR
+```
+
+
 ## SSH Fingerprints
 
 Below you find the fingerprints for SSH hostkey verification:
 
-```
+```text
 # codeberg.org:22 SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u1
 codeberg.org ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBL2pDxWr18SoiDJCGZ5LmxPygTlPu+cCKSkpqkvCyQzl5xmIMeKNdfdBpfbCGDPoZQghePzFZkKJNR/v9Win3Sc=
 # codeberg.org:22 SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u1
