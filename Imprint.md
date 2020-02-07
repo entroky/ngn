@@ -37,3 +37,7 @@ codeberg.org ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8hZi7K1/2E2uBX8gwPRJAHvRAob+
 # codeberg.org:22 SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u1
 codeberg.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIVIC02vnjFyL+I4RHfvIGNtOgJMe769VTF1VR4EB3ZB
 ```
+
+## API
+
+Please refer to the [official Gitea Swagger API documentation](https://docs.gitea.io/en-us/api-usage/) for information to access the API endpoints.
