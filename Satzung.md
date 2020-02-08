@@ -1,7 +1,6 @@
+# Satzung
 
-#Satzung
-
-##Präambel
+## Präambel
 
 Die Entwicklung Freier Software erlebt – bedingt durch die allgemeine Verfügbarkeit des Internets und die daraus resultierenden Netzwerkeffekte – einen ungebrochenen Boom. Die Zahl der an der Entwicklung Freier Software beteiligen Personen wächst exponentiell. Die effektive Zusammenarbeit in größeren, internationalen und räumlich getrennten Gruppen wurde erst durch die Einführung neuer Software-Werkzeuge und Kollaborationsplattformen möglich.
 
