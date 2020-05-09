@@ -4,7 +4,7 @@ We have a mimimum-collection policy. Aside from essential data required to keep 
 
 ### User contributions
 
-For all data you contribute (for example code, content, repositories, account details and settings), you have full responsibility and control to add, modify, create this data. If some datum cannot be modified by users, this is considered a technical bug that needs urgent fixing. Please report all issues to the Codeberg.org Community Issue Tracker.
+For all data you contribute (for example code, content, repositories, account details and settings), you have full responsibility and control to add, modify, create this data. If some data cannot be modified by users, this is considered a technical bug that needs urgent fixing. Please report all issues to the Codeberg.org Community Issue Tracker.
 
 ### Backup files
 
