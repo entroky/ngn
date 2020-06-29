@@ -17,7 +17,9 @@ Geschäftsführender Vorstand: Holger Waechtler
 Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 ```
 
-## Gemeinnützigkeit
+## Gemeinnützigkeit (recognition of status as non-profit NGO, recognition as tax-excempt entity)
+
+Codeberg e.V. is recognized be German tax authorities as tax-excempt non-profit organization for the common good. In good German legalese this reads: 
 
 Der Codeberg e.V. ist mit Bescheid vom 23. Juni 2020 vom Finanzamt für Körperschaften I (Berlin) steuerbegünstigt und erfüllt die Voraussetzungen nach §51, §59, §60 und §61 AO. Der Codeberg e.V. fördert folgende gemeinnützige Zwecke:
 
