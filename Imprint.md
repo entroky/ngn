@@ -19,15 +19,21 @@ Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 
 ## Gemeinnützigkeit (recognition of status as non-profit NGO, recognition as tax-excempt entity)
 
-Codeberg e.V. is recognized be German tax authorities as tax-excempt non-profit organization for the common good. In good German legalese this reads: 
+Codeberg e.V. is recognized be German tax authorities as tax-excempt non-profit organization for the common good. In classic German legalese this reads: 
 
-Der Codeberg e.V. ist mit Bescheid vom 23. Juni 2020 vom Finanzamt für Körperschaften I (Berlin) steuerbegünstigt und erfüllt die Voraussetzungen nach §51, §59, §60 und §61 AO. Der Codeberg e.V. fördert folgende gemeinnützige Zwecke:
+```text
+Der Codeberg e.V. ist mit Bescheid vom 23. Juni 2020 vom Finanzamt für Körperschaften I (Berlin) steuerbegünstigt
+und erfüllt die Voraussetzungen nach §51, §59, §60 und §61 AO.
+
+Der Codeberg e.V. fördert folgende gemeinnützige Zwecke:
 
 - Förderung von Wissenschaft und Forschung (§52 Abs. 2 Satz 1 Nr. (n) 1 AO),
 - Förderung der Volks- und Berufsbildung einschließlich der Studentenhilfe (§52 Abs. 2 Satz 1 Nr. (n) 7 AO).
 
-Damit ist der Codeberg e.V. zur Ausstellung von Zuwendungsbestätigungen für Spenden und Mitgliedsbeiträgen nach §50 Abs. 1 EStDV berechtigt.
- 
+Damit ist der Codeberg e.V. zur Ausstellung von Zuwendungsbestätigungen für Spenden und Mitgliedsbeiträgen nach
+§50 Abs. 1 EStDV berechtigt.
+```
+
 
 ## SEPA IBAN for donations
 
