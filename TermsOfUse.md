@@ -17,6 +17,8 @@ For Free and Open Software projects (FOSS) as defined by the Free Software Found
 
 Our service is open for all projects working under a license compatible with either the Open-Source-License definition of the Free Software foundation (FSF) or the Open Source Initiative (OSI).
 
+Reasonable exceptions are to very limited extend considered acceptable, such as releasing single logo image files of a project published under FOSS terms under no-license or separate non-free license in order to enforce derivative works to create and use their own logo to be clearly distinguishable from the original work even in absence of trademark registration.
+
 Generally we do not contribute, monitor, or delete content (with the rare exception of policies like these Terms of Use or legal compliance). This means that editorial control is in the hands of you and your fellow users who create and manage the content.
 
 Codeberg is a non-profit organisation financed by member contributions and donations. The service can only survive as long as member contributions and donations allow us to maintain the necessary infrastructure.
