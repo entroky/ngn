@@ -1,280 +1,263 @@
 # Bylaws
+
 Please note: This is an unofficial English translation of the German bylaws document. The official German version is the only legally binding document. Please see the Readme in the parent directory for further information.
+
 ## Preamble
 
 The creation of Free Software is experiencing an unbroken boom due to the general availability of the Internet and the resulting network effects. The number of people involved in development of Free Software is growing exponentially. Effective collaboration in larger, international and geographically separated groups has only become possible with the introduction of new software tools and collaboration platforms.
 
-While the dominating software tools which made this collaboration possible were developed as Free and Open Software (a good example is "GIT"), the succeeding collaboration tools are proprietary online services of commercial companies, which are mostly operating under US law. This lead to the paradox situation that millions of volunteers create knowledge, text contributions and software of unrecognizable value while the control is handed over to these commercial platforms. 
+While the dominating software tools that made this collaboration possible were developed as Free and Open Software (a good example is "GIT"), the succeeding collaboration tools are proprietary online services of commercial companies, which are mostly operating under US law. This lead to the paradox situation that millions of volunteers create free knowledge, text contributions and software of immeasurable value while handing over its control to these commercial platforms.
 
-The non-profit and free as Open-Source developed code which makes our modern communication in the Internet and the connected life possible, even the products of publicly funded science, are inserted into private and commercially operating platforms, whose software and stock cannot be controlled from outside, whose control is not even attempted.
+The open source code which is developed freely and for public benefit and makes modern communication on the Internet and our connected life possible, and even the products of publicly funded research, are fed into private and commercially operated platforms, whose agenda and continued existence cannot be controlled from outside, whose control is not even attempted.
 
-As Codeberg e. V., we are convinced that the process of software creation, the documentation and communication in which developers of Free Software participate deserve a likewise free and non-profit operating platform, to guarantee the openness and the availability of free software for all future.
+As Codeberg e.V., we are convinced that the process of software creation, its documentation and communication, in which developers of Free Software participate deserve a likewise free and non-profit operating platform, to guarantee the openness and continued availability of free software in the future.
 
-Therefore, the purpose of Codeberg e. V. is the creation and operation of a free collaboration platform for the creation, archiving and preservation of code and the documents of its development processes, as well as the improvement, customization and integration of already existing free software tools for making this platform possible. Dependencies on external and proprietary services for the operation of the platform are specifically avoided in order to not endanger the independence, autonomy and existence of the platform.
+Therefore, the purpose of Codeberg e.V. is the creation and operation of a free collaboration platform for the creation, archiving and preservation of code and the documents of its development processes, as well as the improvement, customization and integration of already existing free software tools for making this platform possible. Dependencies on external and proprietary services for the operation of the platform are specifically avoided in order to not endanger the independence, autonomy and existence of the platform.
 
+## § 1 Name, seat and fiscal year
 
-## § 1 Name, Seat and Fiscal Year
+(1) The name of the association (German *Verein*) is "Codeberg e.V.", in the following referred to as "association".
 
-(1) The name of the association is "Codeberg e. V.", in the following referred to as "association".
-
-(2) The seat of the association is Berlin, Germany. It is to be added to the Register of Associations and will then bear the addition "e. V." (German registered association)
+(2) The seat of the association is Berlin, Germany. It is to be added to the Register of Associations (German *Vereinsregister*) and will then bear the suffix "e.V." (registered association, German *Eingetragener Verein*)
 
 (3) The fiscal year is the calendar year.
 
+## § 2 Purpose and tasks
 
-## § 2 Purpose and Tasks
+(1) The purpose of the association is to promote the creation, collection, distribution and preservation of Free Content (Open Content, Free Cultural Works) and Free and Open Source Software (FOSS) and their documentation in selfless work to enable equal opportunities regarding the access to knowledge and education. Furthermore this also intends to raise awareness for the social and philosophical questions interconnected with this.
 
-(1) The purpose of the association is to promote the creation, collection, distribution and preservation of Free Content (Open Content, Free Cultural Work) and Free and Open Source Software (FOSS) and their documentation in selfless work to enable equal opportunities regarding the access to knowledge and education. Therefore the awareness of related social and philosophical questions should also be increased.
-
-(2) While collecting and distributing Free Content, open and commonly used Repository and Version Control Systems ("RCS" and "VCS") should be used and generally made available primarily but not exclusively that save and preserve the whole history of the creation and improvement of of Open Source software and make it freely available to the society via the Internet. A prominent example is "GIT", a software created by Linux developer Linus Thorvalds.
+(2) For the collection and distribution of free content, open and commonly used Repository and Version Control Systems ("RCS" and "VCS") that save and preserve the whole history of the creation and improvement of Open Source software and make it freely available to society on the Internet, should be primarily but not exclusively used and generally made available. A prominent example is "GIT", a software created by Linux developer Linus Torvalds.
 
 (3) The association acts independently and autonomously.
 
 (4) The purpose of the association shall be served in particular by
 
- - the operation of Internet connected systems for the creation, collection and distribution of Free Software (Open Source) and Free Content.
- - the distribution and support of the distribution of Free Software and Free Content via different methods, for example via digital or printed medium.
- - the creation, serving and distribution of information as well as public relations work on the topic of Free Software and Free Content.
- - the clarification of scientific, social, cultural and legal questions related to Free Software, Free Content, Repository and Version Control Systems and Wikis. Examples include reports, studies and orders for the research and development of systems necessary for the operation of the platform as well as the award of scholarships in these domains. They must directly serve the purpose of Codeberg e. V. and results must be published and made available to the public on time. Additionally, orders, awards and their award guidelines must be publicly announced.
+ - the operation of Internet systems for the creation, collection and distribution of Free Software (Open Source) and Free Content.
+ - the distribution and support of the distribution of Free Software and Free Content via different methods, for example via digital or printed media.
+ - the acquisition, provision and distribution of information as well as public relations work on the topic of Free Software and Free Content.
+ - the clarification of scientific, social, cultural and legal questions related to Free Software, Free Content, Repository and Version Control Systems and Wikis. Examples are reports, studies and the commissioning of research and development of systems necessary for the operation of the platform as well as the awarding of scholarships in these domains. These must directly serve the goals and purpose of Codeberg e.V. and results must be published and made available to the public in a timely manner. Furthermore, commissions, scholarships and the guidelines for their awarding must be publicly announced.
 
-(5) The association may acquire funds, provided they are only used for the purposes mentioned above, for other tax-privileged bodies or public law entities and forward it to them as well as participate in tax-privileged corporations and even become a member of them.
+(5) The association may also acquire funds, provided they are only used for the purposes mentioned above, for other tax-privileged bodies or public law entities and forward these to them, as well as participate in tax-privileged corporations or become a member of them.
 
-(6) The association strives only and directly for non-commercial purposes as of the paragraph "steuerbegünstigte Zwecke" (tax-privileged purposes) of the "Abgabenordnung" (German Fiscal Code) 1977 (§§51 ff. AO) in the latest valid version. It is acting selfless and does not primarily pursue self-sufficient goals.
+(6) The association solely and directly serves non-commercial purposes as of paragraph "steuerbegünstigte Zwecke" (tax-privileged purposes) of the "Abgabenordnung" (German *Fiscal Code*) 1977 (§§51 ff. AO) in the latest valid version. It acts selflessly and does not primarily pursue self-serving goals.
 
-(7) Means of the association may only be used for purposes according to the bylaws. The members in their role as member do not receive support from the funds of the association. Members are not allowed to receive parts of the association's assets on their leave or the dissolution of the association.
-
+(7) Means of the association may only be used for purposes in accordance with the bylaws. Members in their role as member do not receive financial support from the funds of the association. Members are not allowed to receive parts of the association's assets when leaving, or during a forced or voluntary dissolution of the association. No person may receive financial benefits for reasons which are not in accordance with the association's purposes, neither may anyone receive excessive benefits.
 
 ## § 3 Membership
 
-(1) Every natural and legal person or legal partnerships can become a member.
+(1) Every natural person, legal person or legal partnership can become a member.
 
 (2) The association consists of active members, supporting members and honorary members.
 
-(3) Any natural person who wants actively participate in the association or one of its supported projects can become an active member of the association. Any natural or legal person or legal partnership can become a supporting member, which do not actively participate in the association's activities but support and fund the aims and goals of the association.
+(3) Any natural person who wants to actively participate in the association or one of its supported projects can become an active member of the association. Any natural person, legal person or legal partnership who does not wish to actively participate in the association's activities but wants to support and fund the goals and purposes of the association can become a supporting member.
 
-(4) Natural persons who have contributed in an outstanding way to the association can be named honorary members. Therefore, a resolution of the association's main assembly is required.
+(4) Natural persons who have contributed in an outstanding way to the association can be named honorary members. For this, a resolution from the association's general assembly is required.
 
+## § 4 Rights and duties of the members
 
-## § 4 Rights and Duties of the Members
+(1) Members are permitted to attend all offered events of the association. Additionally, they have the right to submit requests to the the Presidium and the general assembly.
 
-(1) Members are permitted to attend all offered events of the association. Additionally, they can use their right to submit requests to the the Praesidium and the main assembly.
+(2) The members support the association and its purpose in an adequate fashion. They are obliged to pay their dues as prescribed by the latest valid membership fee regulation (German *Beitragsordnung*). Further they are obliged to immediately inform the association in case of changes in their postal address, email address and bank details. The member is liable for any consequences that are a result of ignoring these obligations and frees the association from any liability.
 
-(2) The members support the Association and its purpose in adequate fashion. They are obliged to pay the allowance as of the latest valid membership fee regulation (Beitragsordnung). Further, they are obliged to immediately inform the association in case of changes in their postal address, mail address and bank address. The member is liable for any consequences that are a result of ignoring these obligations and frees the association from any liability.
+(3) Active members have active and passive election rights as well as the right to submit requests, vote and speak at general assemblies. Employees and former employees of the association whose employment relationship did not end more than one year prior to the date of the assembly are not eligible for being voted.
 
-(3) Active members have active and passive election rights as well as the right to submit requests, to vote and to speak at general assemblies. Employees and former employees of the association whose employment relationship did not end more than one year ago are not eligible.
+(4) Supporting members have the right to submit requests and to speak at assemblies but no voting or election rights.
 
-(4) Supporting members have the right to submit requests and to speak at general assemblies but no voting or election rights.
+(5) Honorary members have the same rights and obligations as active members but are exempted from having to pay membership fees.
 
-(5) Honorary members have the same rights as active members but are freed of paying allowances.
+(6) The positions in the association are held on a voluntary basis.
 
-(6) The positions of the association are held on an honorary basis.
+## § 5 Begin and end of the membership
 
+(1) The membership must be applied for in writing to the executive board. Application via email or online form is permitted. The board decides over the application if the Presidium does not contradict it. The board is not obliged to inform the applicant about the reasons for disapproval. The disapproved applicant can call the general assembly to take a final decision on his application.
 
-## § 5 Begin and End of the Membership
+(2) Membership ends with voluntary resignation, exclusion, death of the member or loss of legal capacity for legal persons.
 
-(1) The membership must be applied for in writing to the executive board. Application via E-Mail or online form is permitted. The board decides over the application if the Praesidium does not contradict it. The board is not obliged to inform the applicant about the reasons for disapproval. The disapproved applicant can call the main assembly to take a final decision on their application.
+(3) The resignation of an active or honorary member must be declared in written form by the end of the fiscal year. The board decides on termination of membership during the year upon application by the member.
 
-(2) Membership ends with voluntary leave, exclusion, death of the member or loss of legal capacity for legal persons.
+(4) The resignation of a supporting member can be declared at any time and with immediate effect in writing or via email.
 
-(3) The resignation of an active member or honorary member must be declared in written form by the end of the fiscal year. The board decides on termination of membership during the year upon application by the member.
+(5) The exclusion of a member with immediate effect and with an important reason can be declared in case the member violated the bylaws, additional orders, the association's purposes or its interests. The exclusion of a member shall require a majority of two-thirds in a vote by the presidium. In advance to the decision, the member must be granted the opportunity to comment on the accusations within a period of two weeks.
 
-(4) The resignation of a supporting member can be declared at any time and with immediate action as terminal in writing or via E-Mail.
+(6) With the end of membership for any reason, all claims from the membership end. A refund of fees, donations or other means of support is generally precluded. The association's claim on overdue fees of active members is hereby not touched.
 
-(5) The exclusion of a member with immediate action and with an important reason can be declared in case the member violated the bylaws, additional orders, the association's purposes or its interests. The exclusion of a member shall require the majority of two-thirds of a vote by the Praesidium. In advance of the decision, the member bust be granted with the opportunity to comment on the accusations within a period of two weeks.
-
-(6) With the end of membership for any reason, all claims from the membership end. A refund of fees, donations or other supporting services is generally precluded. The claim of the association regarding overdue fees of active members remains unaffected.
-
-(7) The membership ends with removal if the address of the member is unknown against § 4 paragraph 2 sentence 2 or if in spite of reminders at minimum intervals of two weeks the membership fee was not paid. The second reminder must have been sent in written form and must contain a notice of the removal. After expiry of a declaration period of three months, the membership ends automatically. The period starts with the sending of the second reminder.
-
+(7) The membership ends with removal if the address of the member is unknown against § 4 paragraph 2 sentence 2 or if in spite of two reminders at a minimum interval of two weeks the membership fee was not paid. The second reminder must have been sent in written form and must contain a notice of the removal. After expiry of a declaration period of three months, the membership ends automatically. The period starts with the sending of the second reminder.
 
 ## § 6 Membership fees
 
-(1) The amount of the annual membership fees and admission fees is determined by the fee regulations (Beitragsordnung) which is adopted by the main assembly.
+(1) The amount of the annual membership and admission fees is determined by the fee regulations (German *Beitragsordnung*) which are decided on by the general assembly.
 
+## § 7 Bodies of the association
 
-## § 7 Bodies of the Association
+(1) The bodies of the association are:
 
-(1) Bodies of the association are:
+a) the general assembly
 
-a) the main assembly
-
-b) the Praesidium
+b) the presidium
 
 c) the executive board
 
+## § 8 General assembly
 
-## § 8 main assembly
+(1) The highest body of the association is the general assembly. The general assembly has to decide over fundamental questions and issues of the association. In particular it has the following tasks:
 
-(1) Highest body of the association is the main assembly. The main assembly shall decide over fundamental questions and issues of the association. It has in particular the following tasks:
+a) To elect the presidium and the financial auditors,
 
-a) to elect the Praesidium and the accountants,
+b) To decide over bylaws, changes to the bylaws and the dissolution of the association,
 
-b) to decide over bylaws, changes to the bylaws and the dissolution of the association,
+c) To decide the budget,
 
-c) to decide the budget,
+d) To accept and discuss the yearly reports,
 
-d) to accept and discuss the yearly reports,
+e) To discharge the presidium and the executive board,
 
-e) to discharge the Praesidium and the executive board,
+f) To discuss and decide over existing requests,
 
-f) to discuss and decide over existing requests,
+g) Approval of all rules of procedure inside to the association,
 
-g) approval of all rules of procedure for the association area,
+h) Decisions on membership fee regulations,
 
-h) decisions to the membership fee regulations,
+i) Decisions on the raising of loans which would put the sum of the association's total liabilities in excess of four percent of the total revenues of the preceding year.
 
-i) Decide to raise loans with which the sum of the association's total liabilities would exceed four percent of the total revenues of the preceding year.
+(2) The general assembly is to be called by the presidium once a year and should be held in the first half of the year. The invitation must be issued at least six weeks in advance in written form or by email, stating the agenda and already submitted requests. Objections to the schedule and election proposals as well as proper requests by members must be received by the executive board at least four weeks before the assembly.
 
-(2) The main assembly is to be called once a year from the Praesidium and should be held in the first half of the year. The invitation must be issued at least six weeks in advance in written form or by E-Mail, stating the agenda and already submitted requests. Objections to the schedule and election proposals as well as own requests of the members must be received by the executive board at least four weeks before the assembly.
+(3) The regular general assembly is carried out via online platform.
 
-(3) The regular main assembly is being carried out via online platform.
+a) The online platform is made available via the Internet and is only accessible to members of the association. The authentication for the log-in of members and for voting is realized with their personal log-in credentials.
 
-a) The online platform is served by the Internet and is only accessible to members of the association. The authentication for the log-in of the members and the votes is realized with their personal log-in credentials.
+b) In case the general assembly is interrupted or made impossible due to technical issues, a replacement date is selected within a month. If the technical problems are not solved in this time or if urgent draft resolutions require an especially fast decision, a classical general assembly is scheduled.
 
-b) In case the main assembly is interrupted or impossible, a replacement date is selected within a month. If the technical problems are not solved in this time or if urgent draft resolutions require a sooner decision, a classical main assembly is scheduled.
+c) When electing members of the presidium or financial auditors, voting on changes to the bylaws or accepting requests which touch the rights or obligations of members, they need to be given the possibility to vote remotely. The documents for this vote must be sent to members with voting rights at least two weeks in advance of the end of the voting period.
 
-c) When electing members of the Praesidium or accountants, voting on changes to the bylaws or accepting requests, which touch the members or their duties, they have to receive the possibility for a remote votes. The documents for this vote must be sent to the members with voting rights at least two weeks in advance to the end of the voting period.
+d) Further details are specified by the election regulations.
 
-d) Further details are controlled by the election regulations.
+(4) The general assembly can decide to provide further elections and requests to the members for decision via remote vote. In this decision the period for the remote election must be fixed. Further to this the regulations of paragraph 3 apply accordingly.
 
-(4) The main assembly can decide to provide further elections and requests to the members via remote vote for decision. In the decision the period for the remote election must be fixed. Further, the regulations of paragraph 3 apply accordingly.
+(5) Later requests are to be dealt with if the general assembly accepts to their dealing (Requests for urgent procedure).
 
-(5) Later requests are to be deal with if the main assembly accepts their treatment (Requests for urgent procedure).
-
-(6) The Praesidium has to call for an extraordinary main assembly immediately and with precise announcement of the reasons, if the interest of the association requires it or a significant part of members demands it in written form and with statement of the purpose of the Praesidium. Depending on the amount of members the following is considered as "significant":
+(6) The presidium has to call for an extraordinary general assembly immediately and with precise statement of reasons if the interest of the association requires it or a significant portion of the members demands it from the presidium in written form, stating their purpose and reasons. Depending on the amount of members in the association the following is considered as "significant":
 
 > 1 - 1000: At least 10 % of the members,
 
 > &gt; 1000: At least 100 members.
 
-(7) Decisions of the main assembly are recorded in a protocol and are signed by the executive board and two members of the Praesidium. The protocol shall be made available to the members within four weeks of the assembly. It becomes valid if there were no objections raised within four weeks after publication from a member of the Praesidium or the chairperson of the meeting or at least 10 % of the attending members.
+(7) Decisions of the general assembly are recorded in a protocol and are signed by the executive board and two members of the presidium. The protocol has to be made available to the members within four weeks of the assembly. It becomes valid if there were no objections raised within four weeks after publication from a member of the presidium or the chairperson of the meeting or at least 10 % of the attending members.
 
-
-## § 9 Voting Rights and Quorum
+## § 9 Voting rights and quorum
 
 (1) Each member with voting rights has one vote. The voting right is not transferable.
 
-(2) Each properly summoned main assembly is competent.
+(2) Each properly summoned general assembly is competent.
 
-(3) The main assembly takes decisions with simple majority. In case of equal votes, the request is considered as rejected.
+(3) The general assembly takes decisions with simple majority. In case of equal votes, the request is considered as rejected.
 
-(4) Changes to the bylaws and decisions for the dissolution of the association require a majority of two thirds of the recorded votes. Changes to the bylaws may only be voted upon if this item has already been stated in the agenda in the invitation (as of the period mentioned in the bylaws) to the main assembly and if the current and proposed text of the bylaws were appended to invitation.
+(4) Changes to the bylaws and decisions for the dissolution of the association require a majority of two thirds of the recorded votes. Changes to the bylaws may only be voted upon if this item has already been mentioned in the agenda inside the invitation to the general assembly (within the period specified in the bylaws) and if the current and proposed text of the bylaws were appended to the invitation.
 
+## § 10 Presidium
 
-## § 10 Praesidium
+(1) The presidium consists of five representatives elected by the general assembly. The presidium may co-opt up to two additional electable members of the association into the presidium for their period of office with a two-thirds majority vote.
 
-(1) The Praesidium consists of five representatives elected by the main assembly. The Praesidium may co-opt up to two additional electable members of the association into the Praesidium for their period of office with a decision with a majority of two-third.
+(2) The period of office of the elected members of the presidium is two years. The period of office of the old presidium ends with the day of the election of the new presidium. The business of the presidium is continued by the old presidium until the transfer of the official business to the new presidium. The handover has to take place within four weeks of the election of the new presidium.
 
-(2) The period of office of the elected members of the Praesidium is two years. The period of office of the old Praesidium ends with the day of the election of the new Praesidium. The business of the Praesidium is continued by the old Praesidium until the transfer of the official business to the new Praesidium. The handover has to take place within four weeks of the election of the new Praesidium.
+(3) The presidium shall in particular:
 
-(3) The Praesidium shall in particular:
-
-  - represent the association to the members;
+  - represent the association towards the members;
   - appoint and dismiss the members of the executive board;
-  - appoint and dismiss employment contracts;
-  - continue the strategic focus of the association and to formulate goals for the executive board;
-  - control the business operations of the board;
-  - grant prior content to legal businesses as of § 12 (5);
+  - appoint, change and dismiss employment contracts;
+  - continue developing the strategic focus of the association and to formulate goals for the executive board;
+  - control and oversee the business operations of the board;
+  - grant prior approval of legal businesses as of § 12 (5);
   - decide changes to the economic plan for the current year;
-  - represent the association in bodies, in which it is involved in accordance with § 2 (5).
+  - represent the association in bodies in which it is involved in accordance with § 2 (5).
 
-(4) In case a member of the Praesidium leaves or is elected as of sentence 1 into another position, the Praesidium may decide with a majority of two-third to co-opt another electable member as an assessor or start a re-election at the next main assembly. If the number of elected members of the Praesidium is less than three, a re-election on the main assembly shall be performed.
+(4) In case a member of the presidium leaves prior to the end of their office period or is elected as of sentence 1 into another position, the presidium may decide with a majority of two-third to co-opt another electable member as a substitute member or carry out a re-election at the next general assembly. If the number of elected members of the presidium decreases to less than three, a general assembly has to be called to hold a re-election.
 
-(5) The liability of the Praesidium is limited to intention and gross negligence.
+(5) The liability of the presidium is limited to intent and gross negligence.
 
-(6) If a member of the Praesidium violates the regulations or the interests of the association in negligible way or heavily interferes with the work of the Praesidium, they can be suspended from its position with important reason. The Praesidium decides over the suspension with a majority of two-thirds. Prior to the decision, the member of the Praesidium must be provided the possibility to comment on the accusations made. The rights and duties resulting of the position of the concerned person are dormant during the suspension. The maximum length of the suspension will last until the next main assembly. If the term of office does not end before the next main assembly, the members of the association decide over a dismissal from the office.
+(6) If a member of the presidium severely violates the regulations or the interests of the association or repeatedly and heavily interferes with the work of the presidium, it can be suspended from its position with immediate effect, given an important reason. The presidium decides over the suspension with a majority of two-third. Prior to the decision, the member of the presidium must be granted the possibility to comment on the accusations made. The rights and duties resulting of the position of the concerned person lie dormant for the period of suspension. At longest, the suspension stays in effect until the next general assembly. If the term of office does not end by then anyway, the members of the association decide over a dismissal from the presidium.
 
+## § 11 Resolutions by the presidium
 
-## § 11 Resolutions by the Praesidium
+(1) The presidium decides by simple majority. The presidium is competent if at least half of its members participate in the vote. Abstentions and invalid votes are considered as missed votes.
 
-(1) The Praesidium decides with simple majority. The Praesidium is competent if at least half of its members participate in the vote. Abstentions and invalid votes are considered as missed votes.
+(2) The presidium makes resolutions in sessions, telephone conferences or via online vote. The members of the presidium and of the executive board have the right to propose requests.
 
-(2) The Praesidium makes resolutions in sessions, telephone conferences or via online vote. The members of the Praesidium and of the executive board have the right to propose requests.
+(3) The invitation to a session must be sent out to the members seven days, in case of phone conferences two days, in advance. Stating the agenda is optional. The voting period for online resolutions usually takes seven, but at least three, days.
 
-(3) The invitation to a session must be sent out seven days in advance, in case of phone conferences two days, to the members. Stating the agenda is optional. The voting period for online resolutions takes usually seven but at least three days.
+(4) Minutes must be kept for all sessions and resolutions.
 
-(4) All sessions and resolutions of the Praesidium must be logged.
+(5) Further details are determined by the business regulations of the presidium.
 
-(5) Further details are determined by the business regulations.
+## § 12 Executive board
 
+(1) The executive board according to § 26 BGB (German *Civil Code*) must consist of at least one person. The presidium can order more people to the board. Board members must be members of the association, but may not be part of the presidium.
 
-## § 12 Executive Board
+(2) The board is elected by the presidium for a duration of one year. Re-election is permitted. The board can be dismissed at any time by a resolution with a two-thirds majority of votes by the presidium.
 
-(1) The executive board according to § 26 BGB (German Civil Code) must consist of at least one person. The Praesidium can order more people to the board. Board members must be members of the association, but may not be part of the Praesidium.
+(3) A board member represents the association on its own if it is the association's only board member. In case the association has multiple board members, they represent the association together.
 
-(2) The board is elected by the Praesidium for a duration of two years. Re-election is permitted. The board can be dismissed by a resolution with a two-thirds majority of votes by the Praesidium.
+(4) The presidium can give all members, or single members of the board the power to single-handedly represent the board.
 
-(3) A board member represents the association on it's own if it is the association's only board member. In case the association has multiple board members, they represent the association in common.
-
-(4) All or single members of the board can be empowered by the Praesidium to the exclusive representation.
-
-(5) The Praesidium may, by means of individual instructions or rules of procedure, make businesses dependent on its prior consent or establish a discretionary limit without consent. The following transactions always require the prior consent of the Praesidium, unless they have already been decided by the business plan:
+(5) The presidium may, by means of individual instructions or rules of procedure, make business transactions require its prior consent or establish a discretionary limit for transactions to take place without required consent. The following transactions always require prior consent of the presidium, unless they have already been decided on in the business plan:
   - acquisition, encumbrance and sale of real estate and equivalent rights;
   - foundation of and participation in companies or institutions under private law;
   - establishment and closure of branch offices.
 
 (6) The executive board may in particular:
   - lead the businesses of the association;
-  - realize the measures, strategies and goals decided by the main assembly or the Praesidium;
-  - provide the business plan over the Praesidium to the main assembly for approval
-  - provide changes to the current business plan to the Praesidium for approval
-  - create and provide the annual accounts via the Praesidium for discussion and approval to the main assembly
-  - inform the Praesidium about all relevant situations and developments
-  - inform the main assembly about its activities
+  - realize the measures, strategies and goals decided by the general assembly or the presidium;
+  - provide the business plan for approval to the general assembly through the presidium
+  - provide changes to the current business plan to the presidium for approval
+  - create and provide the annual accounts for discussion and approval to the general assembly through the presidium
+  - regularly inform the presidium about all relevant circumstances and developments
+  - inform the general assembly about its activities
 
-(7) In case the board consists of multiple persons, § 11 is valid for the passing of resolutions.
+(7) In case the board consists of multiple persons, § 11 applies for the passing of resolutions.
 
-(8)  The executive board is allowed to perform changes to the bylaws if they are required by the registration court, the financial offices or by laws for associations and taxes or if they are editorial. All members must be informed at the following main assembly.
+(8) The executive board is allowed to perform changes to the bylaws if they are required by the registration court, the financial offices or by laws for associations and taxes, or if they are editorial. All members must at the latest be informed at the following general assembly.
 
+## § 13 Cash auditing
 
-## § 13 Cash Auditing
+(1) The general assembly elects at least one and up to four cash auditors for the duration of one year. If more than one cash auditor retires before the end of its period of office, all vacant positions must be remotely re-elected for the rest of the current period of office.
 
-(1) The main assembly elects at least one and up to four cash auditors for the duration of one year. If more than one cash auditor retires before the end of its period of office, all vacant positions bust be remotely re-elected for the rest of the current period of office.
+(2) The cash auditors have the task of checking the vouchers as well as their correct booking and use of funds and to determine in particular the correct use of funds in accordance with the bylaws and tax regulations. The audit does not extend to the expediency of the expenses made by the board. The cash auditors have to inform the general assembly about the result of the cash audit. The cash auditors may not belong to the executive board, the presidium or any committee called by either of the two, and may not be employees of the association.
 
-(2) The cash auditors have the task of checking the vouchers as well as their correct booking and the use of funds and  to determine in particular the correct use of funds according to the bylaws and tax regulations. The audit does not extend to the expediency of the expenses made by the board. The cash auditors have to inform the main assembly about the result of the cash audit. The cash auditors may not belong to the executive board, the Praesidium are any of their committees and may not be employees of the association.
+(3) The presidium must call for an immediate extraordinary general assembly if the cash auditors request it in written form and with provided purpose and reasons. The application is only valid if its necessity is grounded in the findings of a cash audit.
 
-(3) The Praesidium must call for an immediate extraordinary main assembly if the cash auditors request it in written form and with provided reasons. The application is only valid if the necessity results of the cash audit.
+## § 14 Dissolution of the association
 
+(1) In case of dissolution of the association or in case of discontinuation of its previous non-profit purposes, the assets of the association will be transferred to a public corporation or to a corporation recognized as tax-privileged, which must use them directly and exclusively for the promotion of education in the sense of the bylaws. The recipient is determined by the general assembly at the same time as the decision to dissolve the association.
 
-## § 14 Dissolution of the Association
+(2) The members of the board who are in office and authorized for representation are appointed as liquidators, unless the general assembly conclusively decides otherwise.
 
-(1) In case of dissolution of the association or in case of discontinuation of its previous non-profit purposes, the assets of the association will be transferred to a public corporation or to a corporation recognized as tax-privileged, which must use them directly and exclusively for the promotion of education in the sense of the bylaws. The recipient is determined by the main assembly at the same time as the decision to dissolve the association.
-
-(2) The members of the board who are in office and authorized for representation are appointed as liquidators, unless the main assembly decides otherwise conclusively.
-
-Location, date
+Location, Date
 
 Blankenfelde-Mahlow (Germany), 9th September 2018
 
+# Fee regulations
 
+## § 1 Amount of contributions
 
-
-# Fee Regulation
-
-## § 1 Amount of Contributions
-
-(1) Members decide for the amount of their membership upon registration. A change is applied via E-Mail to the executive board.
+(1) Members decide on the amount of their membership fee upon registration. A change of amount is effected via email to the executive board.
 
 (2) The minimal yearly membership fee for natural persons is 24 Euro.
 
-(3) The minimal yearly membership fee for legal entities is 100 Euro. The executive board decides exceptions upon request.
+(3) The minimal yearly membership fee for legal entities is 100 Euro. The executive board decides on exceptions upon request.
 
-(4) Honorary members are released from payments as of the bylaws.
-
+(4) Honorary members are exempted from payments as stated in the bylaws.
 
 ## § 2 Discounts
 
-(1) For members with reduced financial vitality (e.g. pupils, students, unemployed, pensioners and social welfare recipients), the minimum membership fee can be reduced upon request.
+(1) For members with limited financial means (e.g. pupils, students, unemployed, pensioners and social welfare recipients), the minimum membership fee can be reduced upon request.
 
 (2) The discounted minimal yearly fee is 12 Euro.
 
-(3) The board decides the written application for a discount of the membership fee on the reasons of paragraph 1.
+(3) The board decides the written application for a discount of the membership fee on the basis of paragraph 1.
 
+## § 3 Due date / Payment method
 
-## § 3 Due Date / Payment Method
+(1) Members determine their payment interval at registration. Fees can be either paid monthly, quarterly, half-yearly or yearly.
 
-(1) Members determine their payment interval at registration. The fees can be either paid monthly, quarterly, half-yearly and yearly.
-
-(2) The membership fee is due in full amount at the first day of the commenced interval, respectively with the accepted membership application. For the period between the admission and the first regular payment interval, the amount is determined proportionally, i.e. if, for example, in the case of monthly payment, the admission takes place 14 calendar days before the end of a month with 31 days, the first contribution is 14/31=45% of the regular contribution.
+(2) The membership fee is due in full amount at the first day of the commenced interval, respectively when the membership application gets accepted. For the period between the admission and commencement of the first regular payment interval, the amount is determined proportionally, i.e. if, for example, in the case of monthly payment, the admission takes place 14 calendar days before the end of a month with 31 days, the first contribution is 14/31=45% of the regular contribution.
 
 (3) The payment of the contribution is made by direct debit. On special request the contribution can also be paid by bank transfer. In this case, the membership number must be indicated.
