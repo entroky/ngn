@@ -1,7 +1,5 @@
 # Bylaws
-
 Please note: This is an unofficial English translation of the German bylaws document. The official German version is the only legally binding document. Please see the Readme in the parent directory for further information.
-
 ## Preamble
 
 The creation of Free Software is experiencing an unbroken boom due to the general availability of the Internet and the resulting network effects. The number of people involved in development of Free Software is growing exponentially. Effective collaboration in larger, international and geographically separated groups has only become possible with the introduction of new software tools and collaboration platforms.
@@ -14,6 +12,7 @@ As Codeberg e.V., we are convinced that the process of software creation, its do
 
 Therefore, the purpose of Codeberg e.V. is the creation and operation of a free collaboration platform for the creation, archiving and preservation of code and the documents of its development processes, as well as the improvement, customization and integration of already existing free software tools for making this platform possible. Dependencies on external and proprietary services for the operation of the platform are specifically avoided in order to not endanger the independence, autonomy and existence of the platform.
 
+
 ## § 1 Name, seat and fiscal year
 
 (1) The name of the association (German *Verein*) is "Codeberg e.V.", in the following referred to as "association".
@@ -21,6 +20,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 (2) The seat of the association is Berlin, Germany. It is to be added to the Register of Associations (German *Vereinsregister*) and will then bear the suffix "e.V." (registered association, German *Eingetragener Verein*)
 
 (3) The fiscal year is the calendar year.
+
 
 ## § 2 Purpose and tasks
 
@@ -43,6 +43,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (7) Means of the association may only be used for purposes in accordance with the bylaws. Members in their role as member do not receive financial support from the funds of the association. Members are not allowed to receive parts of the association's assets when leaving, or during a forced or voluntary dissolution of the association. No person may receive financial benefits for reasons which are not in accordance with the association's purposes, neither may anyone receive excessive benefits.
 
+
 ## § 3 Membership
 
 (1) Every natural person, legal person or legal partnership can become a member.
@@ -52,6 +53,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 (3) Any natural person who wants to actively participate in the association or one of its supported projects can become an active member of the association. Any natural person, legal person or legal partnership who does not wish to actively participate in the association's activities but wants to support and fund the goals and purposes of the association can become a supporting member.
 
 (4) Natural persons who have contributed in an outstanding way to the association can be named honorary members. For this, a resolution from the association's general assembly is required.
+
 
 ## § 4 Rights and duties of the members
 
@@ -66,6 +68,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 (5) Honorary members have the same rights and obligations as active members but are exempted from having to pay membership fees.
 
 (6) The positions in the association are held on a voluntary basis.
+
 
 ## § 5 Begin and end of the membership
 
@@ -83,9 +86,11 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (7) The membership ends with removal if the address of the member is unknown against § 4 paragraph 2 sentence 2 or if in spite of two reminders at a minimum interval of two weeks the membership fee was not paid. The second reminder must have been sent in written form and must contain a notice of the removal. After expiry of a declaration period of three months, the membership ends automatically. The period starts with the sending of the second reminder.
 
+
 ## § 6 Membership fees
 
 (1) The amount of the annual membership and admission fees is determined by the fee regulations (German *Beitragsordnung*) which are decided on by the general assembly.
+
 
 ## § 7 Bodies of the association
 
@@ -96,6 +101,7 @@ a) the general assembly
 b) the presidium
 
 c) the executive board
+
 
 ## § 8 General assembly
 
@@ -143,6 +149,7 @@ d) Further details are specified by the election regulations.
 
 (7) Decisions of the general assembly are recorded in a protocol and are signed by the executive board and two members of the presidium. The protocol has to be made available to the members within four weeks of the assembly. It becomes valid if there were no objections raised within four weeks after publication from a member of the presidium or the chairperson of the meeting or at least 10 % of the attending members.
 
+
 ## § 9 Voting rights and quorum
 
 (1) Each member with voting rights has one vote. The voting right is not transferable.
@@ -152,6 +159,7 @@ d) Further details are specified by the election regulations.
 (3) The general assembly takes decisions with simple majority. In case of equal votes, the request is considered as rejected.
 
 (4) Changes to the bylaws and decisions for the dissolution of the association require a majority of two thirds of the recorded votes. Changes to the bylaws may only be voted upon if this item has already been mentioned in the agenda inside the invitation to the general assembly (within the period specified in the bylaws) and if the current and proposed text of the bylaws were appended to the invitation.
+
 
 ## § 10 Presidium
 
@@ -176,6 +184,7 @@ d) Further details are specified by the election regulations.
 
 (6) If a member of the presidium severely violates the regulations or the interests of the association or repeatedly and heavily interferes with the work of the presidium, it can be suspended from its position with immediate effect, given an important reason. The presidium decides over the suspension with a majority of two-third. Prior to the decision, the member of the presidium must be granted the possibility to comment on the accusations made. The rights and duties resulting of the position of the concerned person lie dormant for the period of suspension. At longest, the suspension stays in effect until the next general assembly. If the term of office does not end by then anyway, the members of the association decide over a dismissal from the presidium.
 
+
 ## § 11 Resolutions by the presidium
 
 (1) The presidium decides by simple majority. The presidium is competent if at least half of its members participate in the vote. Abstentions and invalid votes are considered as missed votes.
@@ -187,6 +196,7 @@ d) Further details are specified by the election regulations.
 (4) Minutes must be kept for all sessions and resolutions.
 
 (5) Further details are determined by the business regulations of the presidium.
+
 
 ## § 12 Executive board
 
@@ -216,6 +226,7 @@ d) Further details are specified by the election regulations.
 
 (8) The executive board is allowed to perform changes to the bylaws if they are required by the registration court, the financial offices or by laws for associations and taxes, or if they are editorial. All members must at the latest be informed at the following general assembly.
 
+
 ## § 13 Cash auditing
 
 (1) The general assembly elects at least one and up to four cash auditors for the duration of one year. If more than one cash auditor retires before the end of its period of office, all vacant positions must be remotely re-elected for the rest of the current period of office.
@@ -223,6 +234,7 @@ d) Further details are specified by the election regulations.
 (2) The cash auditors have the task of checking the vouchers as well as their correct booking and use of funds and to determine in particular the correct use of funds in accordance with the bylaws and tax regulations. The audit does not extend to the expediency of the expenses made by the board. The cash auditors have to inform the general assembly about the result of the cash audit. The cash auditors may not belong to the executive board, the presidium or any committee called by either of the two, and may not be employees of the association.
 
 (3) The presidium must call for an immediate extraordinary general assembly if the cash auditors request it in written form and with provided purpose and reasons. The application is only valid if its necessity is grounded in the findings of a cash audit.
+
 
 ## § 14 Dissolution of the association
 
@@ -233,6 +245,9 @@ d) Further details are specified by the election regulations.
 Location, Date
 
 Blankenfelde-Mahlow (Germany), 9th September 2018
+
+
+
 
 # Fee regulations
 
@@ -246,6 +261,7 @@ Blankenfelde-Mahlow (Germany), 9th September 2018
 
 (4) Honorary members are exempted from payments as stated in the bylaws.
 
+
 ## § 2 Discounts
 
 (1) For members with limited financial means (e.g. pupils, students, unemployed, pensioners and social welfare recipients), the minimum membership fee can be reduced upon request.
@@ -253,6 +269,7 @@ Blankenfelde-Mahlow (Germany), 9th September 2018
 (2) The discounted minimal yearly fee is 12 Euro.
 
 (3) The board decides the written application for a discount of the membership fee on the basis of paragraph 1.
+
 
 ## § 3 Due date / Payment method
 
