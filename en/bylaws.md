@@ -61,7 +61,7 @@ Therefore, the purpose of Codeberg e.V. is the creation and operation of a free 
 
 (2) The members support the association and its purpose in an adequate fashion. They are obliged to pay their dues as prescribed by the latest valid membership fee regulation (German *Beitragsordnung*). Further they are obliged to immediately inform the association in case of changes in their postal address, email address and bank details. The member is liable for any consequences that are a result of ignoring these obligations and frees the association from any liability.
 
-(3) Active members have active and passive election rights as well as the right to submit requests, vote and speak at general assemblies. Employees and former employees of the association whose employment relationship did not end more than one year prior to the date of the assembly are not eligible for being voted.
+(3) Active members have active and passive election rights as well as the right to submit requests, vote and speak at general assemblies. Employees and former employees of the association whose employment relationship did not end more than one year prior to the date of the assembly are not eligible for being elected.
 
 (4) Supporting members have the right to submit requests and to speak at assemblies but no voting or election rights.
 
@@ -165,7 +165,7 @@ d) Further details are specified by the election regulations.
 
 (1) The presidium consists of five representatives elected by the general assembly. The presidium may co-opt up to two additional electable members of the association into the presidium for their period of office with a two-thirds majority vote.
 
-(2) The period of office of the elected members of the presidium is two years. The period of office of the old presidium ends with the day of the election of the new presidium. The business of the presidium is continued by the old presidium until the transfer of the official business to the new presidium. The handover has to take place within four weeks of the election of the new presidium.
+(2) The period of office of the elected members of the presidium is two years. The period of office of the old presidium ends with the day of the election of the new presidium. The business of the presidium is continued by the old presidium until the transfer of official business to the new presidium. The handover has to take place within four weeks of the election of the new presidium.
 
 (3) The presidium shall in particular:
 
@@ -191,7 +191,7 @@ d) Further details are specified by the election regulations.
 
 (2) The presidium makes resolutions in sessions, telephone conferences or via online vote. The members of the presidium and of the executive board have the right to propose requests.
 
-(3) The invitation to a session must be sent out to the members seven days, in case of phone conferences two days, in advance. Stating the agenda is optional. The voting period for online resolutions usually takes seven, but at least three, days.
+(3) The invitation to a session must be sent out to the members seven days, in case of phone conferences two days, in advance. Stating the agenda is optional. The voting period for online resolutions usually spans seven, but at least three, days.
 
 (4) Minutes must be kept for all sessions and resolutions.
 
@@ -268,7 +268,7 @@ Blankenfelde-Mahlow (Germany), 9th September 2018
 
 (2) The discounted minimal yearly fee is 12 Euro.
 
-(3) The board decides the written application for a discount of the membership fee on the basis of paragraph 1.
+(3) The board decides on the written application for a discount of the membership fee on the basis of paragraph 1.
 
 
 ## § 3 Due date / Payment method
