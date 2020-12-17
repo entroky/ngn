@@ -6,7 +6,7 @@ The creation of Free Software is experiencing an unbroken boom due to the genera
 
 While the dominating software tools that made this collaboration possible were developed as Free and Open Software (a good example is "GIT"), the succeeding collaboration tools are proprietary online services of commercial companies, which are mostly operating under US law. This lead to the paradox situation that millions of volunteers create free knowledge, text contributions and software of immeasurable value while handing over its control to these commercial platforms.
 
-The open source code which is developed freely and for public benefit and makes modern communication on the Internet and our connected life possible, and even the products of publicly funded research, are fed into private and commercially operated platforms, whose agenda and continued existence cannot be controlled from outside, whose control is not even attempted.
+The open source code which is developed freely and for public benefit and makes modern communication on the Internet and our connected life possible, and even the products of publicly funded research, are fed into private and commercially operated platforms, whose software and continued existence cannot be controlled from outside, whose control is not even attempted.
 
 As Codeberg e.V., we are convinced that the process of software creation, its documentation and communication, in which developers of Free Software participate deserve a likewise free and non-profit operating platform, to guarantee the openness and continued availability of free software in the future.
 
