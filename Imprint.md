@@ -13,7 +13,7 @@ Gormannstraße 14
 
 E-Mail: contact@codeberg.org
 
-Geschäftsführender Vorstand: Holger Waechtler
+Geschäftsführende Vorstände: Andreas Shimokawa und Holger Waechtler
 Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 ```
 
