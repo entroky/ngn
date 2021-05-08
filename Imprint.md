@@ -2,6 +2,8 @@
 
 Codeberg is a non-profit organisation dedicated to build and maintain supporting infrastructure for the creation, collection, dissemination, and archiving of Free and Open Source Software. If you have questions, suggestions or comments, please do not hesitate to contact us at [contact@codeberg.org](mailto:contact@codeberg.org).
 
+**If you encounter abusive or malicious user content, please notify us at  [abuse@codeberg.org](mailto:abuse@codeberg.org).**
+
 ## Impressum nach §5 TMG (Imprint according to German Law)
 
 An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to the printer's imprint according to UK law) is the legally mandated statement of the ownership and authorship of a document, which must be included in books, newspapers, magazines and websites published in Germany and certain other German-speaking countries, such as Austria and Switzerland. The Telemediengesetz (TMG, _"Telemedia Act"_) mandates an Impressum, ours you find here:
