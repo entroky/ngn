@@ -1,4 +1,4 @@
-# Satzung
+# Satzung des Codeberg e.V. in der Fassung vom 23.01.2020
 
 ## Präambel
 
@@ -245,7 +245,7 @@ d) Näheres regelt die Wahlordnung.
 Ort, Datum
 
 Blankenfelde-Mahlow, den 9. September 2018
-
+(aktualisiert durch Mitgliederbeschluss, wirksam am 23.01.2020)
 
 
 

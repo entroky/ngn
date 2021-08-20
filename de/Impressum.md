@@ -1,12 +1,12 @@
+Bitte beachte: Dies ist eine unoffizielle Übersetzung des [Englischen Originaldokuments](../Imprint.md). Bitte lies auch die weiteren Hinweise im Überordner dieses Repositories.
+
 ## Codeberg e.V.
 
-Codeberg is a non-profit organisation dedicated to build and maintain supporting infrastructure for the creation, collection, dissemination, and archiving of Free and Open Source Software. If you have questions, suggestions or comments, please do not hesitate to contact us at [contact@codeberg.org](mailto:contact@codeberg.org).
+Codeberg ist eine gemeinnützige Organisation, die sich der Entwicklung und dem Betrieb einer Infrastruktur für die Entwicklung, Sammlung und Archivierung Freier und Open Source Software widmet. Falls Du Fragen, Vorschläge oder Kommentare hast, zögere nicht, uns über [contact@codeberg.org](mailto:contact@codeberg.org) zu kontaktieren.
 
-**If you encounter abusive or malicious user content, please notify us at  [abuse@codeberg.org](mailto:abuse@codeberg.org).**
+## Impressum nach §5 TMG 
 
-## Impressum nach §5 TMG (Imprint according to German Law)
-
-An Impressum (Latin _impressum_, usually translated to _"Imprint"_ in analogy to the printer's imprint according to UK law) is the legally mandated statement of the ownership and authorship of a document, which must be included in books, newspapers, magazines and websites published in Germany and certain other German-speaking countries, such as Austria and Switzerland. The Telemediengesetz (TMG, _"Telemedia Act"_) mandates an Impressum, ours you find here:
+Das Impressum (Latin _impressum_) ist die rechtliche Angabe der Besitzverhäkltnisse eines Dokuments, welches in in Deutschland und weiteren deutschsprachigen Ländern wie etwa der Schweiz und Österreich veröffentlichten Büchern, Zeitungen und -schriften sowie Webseiten enthalten sein muss. Das Telemediengesetz (TMG) erfordert ein Impressum, unseres ist hier:
 
 ```text
 Codeberg e.V.
@@ -15,13 +15,13 @@ Gormannstraße 14
 
 E-Mail: contact@codeberg.org
 
-Geschäftsführende Vorstände: Andreas Shimokawa und Holger Waechtler
+Geschäftsführender Vorstand: Holger Waechtler
 Eingetragen im Vereinsregister des Amtsgerichts Charlottenburg VR36929.
 ```
 
-## Gemeinnützigkeit (recognition of status as non-profit NGO, recognition as tax-excempt entity)
+## Gemeinnützigkeit 
 
-Codeberg e.V. is recognized by German tax authorities as tax-exempt non-profit organization for the common good. In classic German legalese this reads: 
+Codeberg e.V. ist von deutschen Steuerbehörden als steuerbefreite Gemeinnützige Organisation anerkannt. In deutschem Beamtendeutsch liest sich das so:
 
 ```text
 Der Codeberg e.V. ist mit Bescheid vom 23. Juni 2020 vom Finanzamt für Körperschaften I (Berlin) steuerbegünstigt
@@ -37,7 +37,7 @@ Damit ist der Codeberg e.V. zur Ausstellung von Zuwendungsbestätigungen für Sp
 ```
 
 
-## SEPA IBAN for donations
+## SEPA IBAN für Spenden
 
 ```text
 IBAN DE90 8306 5408 0004 1042 42
@@ -47,7 +47,7 @@ BIC  GENODEF1SLR
 
 ## SSH Fingerprints
 
-Below you find the fingerprints for SSH hostkey verification:
+Hier findest du die Fingerabdrücke für die SSH-Host-Key-Überprüfung:
 
 ```text
 # codeberg.org:22 SSH-2.0-OpenSSH_7.9p1 Debian-10+deb10u1
@@ -60,4 +60,4 @@ codeberg.org ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIVIC02vnjFyL+I4RHfvIGNtOgJMe76
 
 ## API
 
-Please refer to the [official Gitea Swagger API documentation](https://docs.gitea.io/en-us/api-usage/) for information to access the API endpoints.
+Bitte schaue in die [offiielle Gitea Swagger API Dokumentation (Englisch)](https://docs.gitea.io/en-us/api-usage/) für weitere Informationen zum API-Zugang.
